@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/66987985/170657060-78e09f6f-d849-4326-
 
 ## Database
  <p align = "left">
-    <img src="https://github.com/celly666/Dashboard/blob/main/Image/database.png" with="300" height="300" />
+    <img src="https://github.com/celly666/Dashboard/blob/main/Image/database.png" with="500" height="500" />
   <br/>
   <br/>
   
